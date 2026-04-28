@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wght@0,200..900;1,200..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+* {
+  box-sizing: border-box;
+}
+header {
+  background-color: #4042c2;
+  color: white;
+  text-align: center;
+  padding: 3px;
+}
+
+body {
+  background-color: #ecf0f1;
+  font-family: "Raleway", sans-serif;
+}
+
+h1 {
+  color: white;
+}
+h2 {
+  color: #e5e9ec;
+  text-align: center;
+  background-color: #2980b9;
+}
+.section-main {
+  background-color: white;
+  padding: 10px;
+  margin: 20px auto;
+  text-align: center;
+}
+.section-secondary {
+  background-color: white;
+}
+.link {
+  color: #2980b9;
+  text-decoration: none;
+}
+.link:hover {
+  color: #e74c3c;
+}
+
+footer {
+  background-color: #34495e;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+ul li a {
+  color: #3498db; /* Rojo intenso como en la foto */
+  text-decoration: none; /* Sin subrayado por defecto */
+  font-weight: normal;
+}
+
+/* El efecto que pediste: cambiar al pasar el mouse */
+ul li a:hover {
+  color: #e74c3c; /* Un rojo más oscuro al pasar el mouse */
+  text-decoration: none; /* Aparece el subrayado */
+}
+.imagenes {
+  width: 600px;
+  height: auto;
+  justify-content: center;
+}
+span {
+  color: #e74c3c;
+  font-weight: bold;
+}
