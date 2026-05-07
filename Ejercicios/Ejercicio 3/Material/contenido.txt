@@ -1,0 +1,88 @@
+CONTENIDO DE LA LANDING PAGE - GAMING ZONE
+==============================================
+
+HEADER
+------
+Logo: logo.png (imagen ubicada en /assets/images/logo.png)
+
+Navegación:
+Inicio
+Juegos
+Contacto
+Servicios
+
+
+SECCIÓN: INICIO
+---------------
+Bienvenido a Gaming Zone
+
+Tu destino para las últimas noticias, reseñas y lanzamientos de videojuegos. Explora nuestro catálogo de juegos destacados y mantente al día con las tendencias del mundo gaming. Aquí encontrarás todo lo que necesitas para sumergirte en el universo de los videojuegos, desde títulos clásicos hasta las novedades más emocionantes. ¡Únete a nuestra comunidad de gamers y comparte tu pasión por los videojuegos con nosotros!
+
+
+SECCIÓN: JUEGOS DESTACADOS
+---------------------------
+Juegos Destacados
+
+
+JUEGO 1:
+Legend of Zelda: Breath of the Wild
+Imagen: 1.avif (ubicada en /assets/images/1.avif)
+
+Viaja a través de vastas praderas, bosques y cimas de montañas mientras descubres cómo cayó en la ruina el reino de Hyrule... ¡Y entra a un mundo de descubrimiento, exploración y aventura que ha sido actualizado con mejoras para un mayor rendimiento en The Legend of Zelda™: Breath of the Wild – Nintendo Switch™ 2 Edition! Con mayor velocidad de fotogramas, menores tiempos de carga y mejoras en la resolución y en las texturas, ¡esta emocionante aventura de mundo abierto luce mejor que nunca!
+
+Disponible en Nintendo Switch.
+
+$59.99
+
+Comprar
+
+
+JUEGO 2:
+Mario Kart™ World
+Imagen: 2.avif (ubicada en /assets/images/2.avif)
+
+¡En esta gigantesca evolución de la serie Mario Kart™ todo este mundo es tu pista de carreras! Todos los caminos que recorras estarán conectados en un mundo que puedes explorar ampliamente. Conduce por senderos entre las pistas para cruzar por montañas, bosques, ciudades y más. Deléitate con los impresionantes paisajes mientras exploras a tu propio ritmo en Paseo libre o mira cómo un cambio repentino en el clima puede alterar un empate en un reñido Grand Prix.
+
+Disponible en Nintendo Switch.
+
+$113.399
+
+Comprar
+
+
+SECCIÓN: CONTACTO
+-----------------
+Contacto
+
+Campo: Nombre
+Tipo: texto
+Placeholder: John Doe
+
+Campo: Correo electrónico
+Tipo: email
+Placeholder: ejemplo@correo.com
+
+Campo: Mensaje
+Tipo: área de texto
+Filas: 5
+Placeholder: Escribe tu mensaje aquí...
+
+Botón: Enviar
+
+
+SECCIÓN: SERVICIOS
+------------------
+Servicios
+
+En Gaming Zone, ofrecemos una variedad de servicios para mejorar tu experiencia de juego y mantenerte conectado con la comunidad gamer. Ya sea que estés buscando los últimos lanzamientos, consejos para mejorar tu juego o simplemente quieras compartir tu pasión por los videojuegos, estamos aquí para ayudarte.
+
+Lista de servicios:
+- Venta de videojuegos físicos y digitales.
+- Reseñas y recomendaciones personalizadas.
+- Eventos y torneos de gaming.
+- Soporte técnico para consolas y juegos.
+
+
+FOOTER
+------
+© 2026 Gaming Zone - Todos los derechos reservados
