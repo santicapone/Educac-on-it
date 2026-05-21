@@ -1,0 +1,110 @@
+CONTENIDO DE LA LANDING PAGE - COMIDA SALUDABLE
+=================================================
+
+HEADER
+------
+Logo: logo.webp (imagen ubicada en /assets/images/logo.webp)
+Dimensiones del logo: 50px x 50px
+
+Título:
+Comida Saludable
+
+Navegación:
+Desayuno
+Almuerzo
+Cena
+Snacks
+
+
+SECCIÓN: HERO (#hero)
+---------------------
+Elemento: Video de fondo
+Ubicación: /assets/video/hero.mp4
+Atributos: autoplay, muted, loop, playsinline
+
+Banner Content (posicionado sobre el video):
+Bienvenido a Comida Saludable
+
+Descubre recetas deliciosas y nutritivas para cada comida del día.
+
+¡Comer sano nunca fue tan fácil y sabroso!
+
+
+SECCIÓN: INFO (#info)
+---------------------
+Recetas Destacadas
+
+Explora nuestras recetas más populares y saludables para inspirar tus comidas diarias. En Comida Saludable, creemos que comer bien no tiene por qué ser complicado. Nuestras recetas están diseñadas para ser fáciles de preparar, deliciosas y nutritivas, utilizando ingredientes frescos y accesibles.
+
+Desde desayunos energéticos hasta cenas ligeras, tenemos opciones para todos los gustos y necesidades.
+
+¡Empieza a cocinar hoy mismo y disfruta de los beneficios de una alimentación saludable!
+
+Imagen: info.avif (ubicada en /assets/images/info.avif)
+
+
+SECCIÓN: PRODUCTS (#products)
+------------------------------
+
+TARJETA 1:
+Imagen: desayuno.jpg (ubicada en /assets/images/desayuno.jpg)
+Desayuno Saludable
+Comienza tu día con energía y vitalidad con nuestras recetas de desayuno saludables.
+
+TARJETA 2:
+Imagen: almuerzo.jpg (ubicada en /assets/images/almuerzo.jpg)
+Almuerzo Nutritivo
+Disfruta de almuerzos equilibrados y deliciosos que te mantendrán satisfecho durante horas.
+
+TARJETA 3:
+Imagen: cena.jpg (ubicada en /assets/images/cena.jpg)
+Cena Ligera
+Termina tu día con cenas ligeras y nutritivas que te ayudarán a descansar mejor.
+
+TARJETA 4:
+Imagen: snacks.webp (ubicada en /assets/images/snacks.webp)
+Snacks Saludables
+Encuentra snacks deliciosos y saludables para mantener tu energía entre comidas.
+
+
+SECCIÓN: BENEFITS (#benefits)
+------------------------------
+Beneficios de Comer Saludable
+
+TABLA: Beneficios de Comer Saludable
+(2 columnas: Beneficio | Descripción)
+
+Encabezados:
+- Beneficio
+- Descripción
+
+Filas:
+1. Mejora la salud cardiovascular | Una dieta rica en frutas, verduras y grasas saludables puede reducir el riesgo de enfermedades del corazón.
+
+2. Aumenta la energía | Comer alimentos nutritivos proporciona los nutrientes necesarios para mantener altos niveles de energía durante el día.
+
+3. Control del peso | Una alimentación equilibrada ayuda a mantener un peso saludable y prevenir la obesidad.
+
+4. Mejora la digestión | Los alimentos ricos en fibra, como frutas y verduras, promueven una digestión saludable y previenen el estreñimiento.
+
+5. Fortalece el sistema inmunológico | Una dieta rica en vitaminas y minerales fortalece el sistema inmunológico, ayudando a prevenir enfermedades.
+
+
+FOOTER
+------
+SECCIÓN CONTACTO (#contacto):
+Contacto
+
+Si tienes alguna pregunta o sugerencia, no dudes en contactarnos.
+
+Lista de contacto:
+- Email: contacto@comidasaludable.com
+- Teléfono: +123 456 7890
+- Dirección: Calle Saludable 123, Ciudad Nutritiva
+
+SECCIÓN DERECHOS (#derechos):
+Logo: logo.webp (imagen ubicada en /assets/images/logo.webp)
+Comida Saludable
+(Nota: "Saludable" debe estar dentro de un <span>)
+
+© 2026 Comida Saludable. Todos los derechos reservados.
