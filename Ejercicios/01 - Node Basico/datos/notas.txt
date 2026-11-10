@@ -1,0 +1,4 @@
+Nota 1: Aprender Node.js
+Nota 2: Practicar módulos nativos
+Nota 3: Entender el sistema de archivos
+Nota 4: Esta línea fue agregada después

@@ -1,0 +1,15 @@
+{
+  "name": "node-basico",
+  "version": "1.0.0",
+  "description": "Ejercicio 01 — Node.js Básico",
+  "main": "01-hola.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.10"
+  }
+}
